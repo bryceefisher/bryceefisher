@@ -23,3 +23,6 @@
 
 ## My GitHub Stats 📊
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryceefisher&show_icons=true)
+
+## Most Used Languages 🗣️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceefisher&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
