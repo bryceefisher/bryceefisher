@@ -21,15 +21,9 @@
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/bryceefisher/)
 - Twitter: [Twitter](https://twitter.com/SideStewBrew)
 
-## My GitHub Stats 📊
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryceefisher&show_icons=true)
-
-## Most Used Languages 🗣️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceefisher&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bryceefisher" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryceefisher&layout=compact&langs_count=8&card_width=320" />
 </a>
