@@ -19,7 +19,7 @@
 ## Connect with Me 🌐
 - Portfolio: [[Your Portfolio]]([Portfolio]([Portfolio](https://brycefisher.me/home)))
 - LinkedIn: [[Your LinkedIn]]([LinkedIn](https://www.linkedin.com/in/bryceefisher/))
-- Twitter: [Your Twitter]([Twitter](https://twitter.com/SideStewBrew))
+- Twitter: https://twitter.com/SideStewBrew
 
 ## My GitHub Stats 📊
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
