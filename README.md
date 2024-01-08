@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Bryce Fisher! 👋
 
-<!--
-**bryceefisher/bryceefisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 📌
+- 🎓 I'm currently studying Software Development at Lane Community College.
+- 🌱 I'm currently learning ASP.NET and Identity.
+- 📫 How to reach me: bryce.e.fisher@gmail.com
 
-Here are some ideas to get you started:
+## My Skills 💻
+- **Languages**: Python, JavaScript, HTML, CSS, C#, MySQL
+- **Frameworks**: ASP.NET, Identity, EF Core, Webpack, ADO.NET, Bootstrap
+- **Tools**: Git, VS Code, JB Rider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects 🚀
+- **[Contact Manager]**: Description of your project. [Link to Project]([URL](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F))
+- **[Another Project]**: Description of another project. [Link to Project](URL)
+
+## Connect with Me 🌐
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Twitter: [Your Twitter](Your Twitter URL)
+- Blog: [Your Blog](Your Blog URL)
+
+## My GitHub Stats 📊
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 -->
