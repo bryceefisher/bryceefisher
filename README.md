@@ -13,7 +13,7 @@
 ## Projects 🚀
 - **[NAACM]**: Website project for a local Native American Arts and Crafts Market. [NAACM](https://www.naacm.org/)
 - **[Contact Manager]**: Contact Manager App. [Contact Manager](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F)
-- **[Homebrew Recipe Designer]**: Homebrew Recipe Designer App. [Homebrew Recipe Designer](https://homebrewrecipedesigner.azurewebsites.net/)
+- **[Homebrew Recipe Designer]**: Homebrew Recipe Designer App, term project for CS295N. [Homebrew Recipe Designer](https://homebrewrecipedesigner.azurewebsites.net/)
 -  **[Brewery Finder]**: Javascript Brewery Finder App, term project from CS233JS. [Homebrew Recipe Designer](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html)
 
 ## Connect with Me 🌐
