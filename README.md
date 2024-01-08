@@ -17,10 +17,9 @@
 - - **[Brewery Finder]**: Description of another project. [Homebrew Recipe Designer]([URL](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html))
 
 ## Connect with Me 🌐
-- Portfolio: [[Your Portfolio]]([Portfolio]([Portfolio](https://brycefisher.me/home)))
-- LinkedIn: [[Your LinkedIn]]([LinkedIn](https://www.linkedin.com/in/bryceefisher/))
-- Twitter: https://twitter.com/SideStewBrew
+- Portfolio: [NAACM]([URL](https://www.naacm.org/))
+- LinkedIn: [NAACM]([URL](https://www.naacm.org/))
+- Twitter: [NAACM]([URL](https://www.naacm.org/))
 
 ## My GitHub Stats 📊
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryceefisher&show_icons=true)
--->
