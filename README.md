@@ -12,9 +12,9 @@
 
 ## Projects 🚀
 - **[NAACM]**: Description of another project. [NAACM](https://www.naacm.org/)
-- **[Contact Manager]**: Description of your project. [Contact Manager]([URL](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F))
-- **[Homebrew Recipe Designer]**: Description of another project. [Homebrew Recipe Designer]([URL](https://homebrewrecipedesigner.azurewebsites.net/))
-- - **[Brewery Finder]**: Description of another project. [Homebrew Recipe Designer]([URL](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html))
+- **[Contact Manager]**: Description of your project. [Contact Manager](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F)
+- **[Homebrew Recipe Designer]**: Description of another project. [Homebrew Recipe Designer](https://homebrewrecipedesigner.azurewebsites.net/)
+- - **[Brewery Finder]**: Description of another project. [Homebrew Recipe Designer](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html)
 
 ## Connect with Me 🌐
 - Portfolio: [NAACM]([URL](https://www.naacm.org/))
