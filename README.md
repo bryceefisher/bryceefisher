@@ -11,15 +11,15 @@
 - **Tools**: Git, VS Code, JB Rider
 
 ## Projects 🚀
-- **[NAACM]**: Description of another project. [NAACM](https://www.naacm.org/)
-- **[Contact Manager]**: Description of your project. [Contact Manager](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F)
-- **[Homebrew Recipe Designer]**: Description of another project. [Homebrew Recipe Designer](https://homebrewrecipedesigner.azurewebsites.net/)
-- - **[Brewery Finder]**: Description of another project. [Homebrew Recipe Designer](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html)
+- **[NAACM]**: Website project for a local Native American Arts and Crafts Market. [NAACM](https://www.naacm.org/)
+- **[Contact Manager]**: Contact Manager App. [Contact Manager](http://bryceefisher-001-site2.htempurl.com/Account/Login?ReturnUrl=%2F)
+- **[Homebrew Recipe Designer]**: Homebrew Recipe Designer App. [Homebrew Recipe Designer](https://homebrewrecipedesigner.azurewebsites.net/)
+-  **[Brewery Finder]**: Javascript Brewery Finder App, term project from CS233JS. [Homebrew Recipe Designer](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html)
 
 ## Connect with Me 🌐
-- Portfolio: [NAACM]([URL](https://www.naacm.org/))
-- LinkedIn: [NAACM]([URL](https://www.naacm.org/))
-- Twitter: [NAACM]([URL](https://www.naacm.org/))
+- Portfolio: [Portfolio](https://www.brycefisher.me/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/bryceefisher/)
+- Twitter: [Twitter](https://twitter.com/SideStewBrew)
 
 ## My GitHub Stats 📊
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryceefisher&show_icons=true)
