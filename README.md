@@ -17,9 +17,9 @@
 -  **[Brewery Finder]**: Javascript Brewery Finder App, term project from CS233JS. [Homebrew Recipe Designer](https://citstudent.lanecc.edu/~fisherb479/web/brewery/dist/index.html)
 
 ## Connect with Me 🌐
-- Portfolio: [Portfolio](https://www.brycefisher.me/)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/bryceefisher/)
-- Twitter: [Twitter](https://twitter.com/SideStewBrew)
+- [Portfolio](https://www.brycefisher.me/)
+- [Linkedin](https://www.linkedin.com/in/bryceefisher/)
+- [Twitter](https://twitter.com/SideStewBrew)
 
 ## My Stats 📊
 
@@ -28,4 +28,4 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryceefisher&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> 
