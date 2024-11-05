@@ -11,9 +11,8 @@
 - **Tools**: Git, VS Code, JB Rider, VS, SSMS
 
 ## Connect with Me 🌐
-- [Portfolio](https://www.brycefisher.me/)
 - [Linkedin](https://www.linkedin.com/in/bryceefisher/)
-- [Twitter](https://twitter.com/SideStewBrew)
+- [X](https://twitter.com/SideStewBrew)
 
 
 
